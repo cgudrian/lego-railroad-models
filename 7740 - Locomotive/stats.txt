@@ -1,0 +1,44 @@
+Vertices  35111
+Edges     66962
+Faces     31579
+Triangles 53848
+
+Vertices  34991
+Edges     66902
+Faces     31711
+Triangles 54032
+
+Vertices  32894
+Edges     62975
+Faces     29974
+Triangles 50954
+
+Vertices  32886
+Edges     62967
+Faces     29974
+Triangles 50952
+
+Vertices  26686
+Edges     51453
+Faces     24604
+Triangles 40990
+
+Vertices  25216
+Edges     48731
+Faces     23353
+Triangles 38800
+
+Vertices  25190
+Edges     48717
+Faces     23353
+Triangles 38800
+
+Vertices  25138
+Edges     48697
+Faces     23353
+Triangles 38800
+
+Vertices  25054
+Edges     48697
+Faces     23353
+Triangles 38800
